@@ -45,4 +45,4 @@ Clique em "Carregar sem compactação", e selecione a pasta da extensão.
 
 <h4 align="center" id="licenca">Licença</h4>
 <a href="./LICENSE.txt">Verificar Licença</a>
-![Badge] (https://img.shields.io/github/license/VictorMonteiro7/edicaoOn?color=green)
+<img src="https://img.shields.io/github/license/VictorMonteiro7/edicaoOn?color=green">
