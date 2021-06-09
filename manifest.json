@@ -1,0 +1,25 @@
+{
+  "name": "EdicaoON",
+  "description": "Edite e Veja como ficará sua página sem procurar o elemento no console",
+  "version": "0.1",
+  "author": [
+    {
+      "name": "Victor Monteiro",
+      "email": "contato@ovictormonteiro.com"
+    }
+  ],
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "scripting", "activeTab"],
+  "action": {
+    "default_popup": "./popup.html"
+  },
+  "icons": {
+    "16": "/images/16x_pencil.png",
+    "32": "/images/32x_pencil.png",
+    "64": "/images/64x_pencil.png",
+    "128": "/images/128x_pencil.png"
+  }
+}
