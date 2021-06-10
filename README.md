@@ -1,8 +1,8 @@
-#Nome do Projeto
+# Nome do Projeto
 
 <h1 align="center">Edição ON</h1>
 
-##Descrição do Projeto
+## Descrição do Projeto
 
 <p align="center">Extensão para Google Chrome, que permite editar textos em uma página sem precisar abrir o console</p>
 
@@ -22,6 +22,7 @@
 <img src="./gif/demo.gif">
 
 <h4 align="center" id="requisitos">PRÉ REQUISITOS</h4>
+
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Git](https://git-scm.com).
